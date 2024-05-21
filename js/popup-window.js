@@ -249,7 +249,7 @@ function createWindowIntroduceProduct() {
                     <span class="text">Phiên bản</span>:
                 </div>
                 <div class="content">
-                    2.5.1 (04/2020)
+                    2.5.1 (18/05/2024)
                 </div>
             </div>
 
